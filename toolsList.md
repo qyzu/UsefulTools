@@ -5,3 +5,4 @@ Kamińska Arleta 180195 - Visual Studio Online<br/>
 Pszczółkowski Krzysztof 180266 - Asana<br/>
 Markowicz Seweryn 181449 BugNet <br />
 Damian Spinek 180285 - Hudson-ci <br/>
+Rutkowski Paweł 180275 - TeamCity <br/>
