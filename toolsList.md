@@ -6,3 +6,5 @@ Pszczółkowski Krzysztof 180266 - Asana<br/>
 Markowicz Seweryn 181449 BugNet <br />
 Damian Spinek 180285 - Hudson-ci <br/>
 Rutkowski Paweł 180275 - TeamCity <br/>
+Rydz Michal 164968 - Trello <br/>
+
