@@ -8,3 +8,4 @@ Damian Spinek 180285 - Hudson-ci <br/>
 Rutkowski Paweł 180275 - TeamCity <br/>
 Rydz Michal 164968 - Trello <br/>
 Maciej Bołtromiuk 158445 Slack, twoodo <br/>
+Jan Godziątkowski 180169 Bamboo<br/>
