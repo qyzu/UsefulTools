@@ -9,4 +9,4 @@ Rutkowski Paweł 180275 - TeamCity <br/>
 Rydz Michal 164968 - Trello <br/>
 Maciej Bołtromiuk 158445 Slack, twoodo <br/>
 Jan Godziątkowski 180169 Bamboo<br/>
-+Marcin Kolesiński 180204 - GitLab <br/>
+Marcin Kolesiński 180204 - GitLab <br/>
