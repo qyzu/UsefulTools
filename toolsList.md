@@ -11,3 +11,4 @@ Maciej Bołtromiuk 158445 Slack, twoodo <br/>
 Jan Godziątkowski 180169 Bamboo<br/>
 Marcin Kolesiński 180204 - GitLab <br/>
 Kamil Woźniak 180308 - launchpad <br/>
+Piotr Bednarek 180132 - Redmine <br/>
